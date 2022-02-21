@@ -4,22 +4,11 @@ This repository contains examples and documentation for some common workflows us
 
 ## Getting started
 
-To run the example notebooks, simply login to [NIVA's JupyterHub](https://jupyterhub.niva.no/) and clone this repository (all packages and datasets should be pre-installed). Please contact James Sample if you have any problems.
+To run the example notebooks, simply login to [NIVA's JupyterHub](https://jupyterhub.niva.no/) and clone this repository. All packages and datasets should be pre-installed. Please contact James Sample if you have any problems.
 
 ## Bug reports and feature requests
 
 Please use the [issue tracker](https://github.com/NIVANorge/catchment_processing_workflows/issues) to report problems or request new features. [Pull requests](https://github.com/NIVANorge/catchment_processing_workflows/pulls) are also welcome!
-
-## Contents
-
- 1. [Catchment delineation](https://github.com/NIVANorge/catchment_processing_workflows#1-catchment-delineation)
- 2. [Land cover proportions](https://github.com/NIVANorge/catchment_processing_workflows#2-land-cover-proportions)
- 3. [Accessing historic weather, climate and hydrological data](https://github.com/NIVANorge/catchment_processing_workflows#3-accessing-historic-weather-climate-and-hydrological-data)
-    1. [NVE's Grid Time Series API](https://github.com/NIVANorge/catchment_processing_workflows#31-nves-grid-time-series-gts-api)
-    2. [Met.no's Norwegian Gridded Climate Dataset](https://github.com/NIVANorge/catchment_processing_workflows#32-metnos-norwegian-gridded-climate-dataset-ngcd)
-    3. [ERA5 via Copernicus](https://github.com/NIVANorge/catchment_processing_workflows#33-era5-via-copernicus)
-    4. [Met.no's Frost API](https://github.com/NIVANorge/catchment_processing_workflows#34-metnos-frost-api)
-    5. [NVE's HydAPI](https://github.com/NIVANorge/catchment_processing_workflows#35-nves-hydapi)
 
 ## 1. Catchment delineation
 
