@@ -12,14 +12,14 @@ Please use the [issue tracker](https://github.com/NIVANorge/catchment_processing
 
 ## Contents
 
- 1. Catchment delineation
- 2. Land cover proportions
- 3. Accessing historic weather, climate and hydrological data
-    1. NVE's Grid Time Series API
-    2.	Met.no's Norwegian Gridded Climate Dataset
-    3. ERA5 via Copernicus
-    4. Met.no's Frost API
-    5. NVE's HydAPI
+ 1. [Catchment delineation](https://github.com/NIVANorge/catchment_processing_workflows#1-catchment-delineation)
+ 2. [Land cover proportions](https://github.com/NIVANorge/catchment_processing_workflows#2-land-cover-proportions)
+ 3. [Accessing historic weather, climate and hydrological data](https://github.com/NIVANorge/catchment_processing_workflows#3-accessing-historic-weather-climate-and-hydrological-data)
+    1. [NVE's Grid Time Series API](https://github.com/NIVANorge/catchment_processing_workflows#31-nves-grid-time-series-gts-api)
+    2.	[Met.no's Norwegian Gridded Climate Dataset](https://github.com/NIVANorge/catchment_processing_workflows#32-metnos-norwegian-gridded-climate-dataset-ngcd)
+    3. [ERA5 via Copernicus](https://github.com/NIVANorge/catchment_processing_workflows#33-era5-via-copernicus)
+    4. [Met.no's Frost API](https://github.com/NIVANorge/catchment_processing_workflows#34-metnos-frost-api)
+    5. [NVE's HydAPI](https://github.com/NIVANorge/catchment_processing_workflows#35-nves-hydapi)
 
 ## 1. Catchment delineation
 
