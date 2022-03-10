@@ -14,7 +14,15 @@ Please use the [issue tracker](https://github.com/NIVANorge/catchment_processing
 
 ## 1. Catchment delineation
 
-**To do**.
+Delineate watersheds for outflow points in Norway based on Kartverket's national 10 m resolution DTM. Reduced resolution versions (20 m and 40 m) are also available for faster processing and will be suitable for many applications.
+
+**To get started, see the example [here](https://nbviewer.org/github/NIVANorge/catchment_processing_workflows/blob/main/notebooks/catchment_delineation/04_catchment_delineation.ipynb).**
+
+For reference, notebooks describing development of the workflow are here:
+
+ 1. [Reproject, merge and resample the raw DTM](https://nbviewer.org/github/NIVANorge/catchment_processing_workflows/blob/main/notebooks/catchment_delineation/01_merge_reproject_raw_dtm.ipynb)
+ 2. [Split data by vassdragsområde for efficiency](https://nbviewer.org/github/NIVANorge/catchment_processing_workflows/blob/main/notebooks/catchment_delineation/02_split_by_vassom.ipynb)
+ 3. [Terrain conditioning](https://nbviewer.org/github/NIVANorge/catchment_processing_workflows/blob/main/notebooks/catchment_delineation/03a_terrain_processing_pysheds.ipynb)
 
 ## 2. Land cover proportions
 
