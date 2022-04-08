@@ -26,7 +26,9 @@ For reference, notebooks describing development of the workflow are here:
 
 ## 2. Land cover proportions
 
-**To do**.
+Calculate land cover proportions for polygons in Norway based on either AR50 or Corine land cover data (Corine is are available for 2000, 2006, 2012 and 2018).
+
+**To get started, see the example [here](https://nbviewer.org/github/NIVANorge/catchment_processing_workflows/blob/main/notebooks/land_cover_proportions.ipynb).**
 
 ## 3. Accessing historic weather, climate and hydrological data
 
