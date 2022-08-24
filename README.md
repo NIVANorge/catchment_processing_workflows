@@ -22,7 +22,7 @@ For reference, notebooks describing development of the workflow are here:
 
  1. [Reproject, merge and resample the raw DTM](https://nbviewer.org/github/NIVANorge/catchment_processing_workflows/blob/main/notebooks/catchment_delineation/01_merge_raw_dtm.ipynb)
  2. [Split data by vassdragsområde for efficiency](https://nbviewer.org/github/NIVANorge/catchment_processing_workflows/blob/main/notebooks/catchment_delineation/02_split_by_vassom.ipynb)
- 3. [Terrain conditioning](https://nbviewer.org/github/NIVANorge/catchment_processing_workflows/blob/main/notebooks/catchment_delineation/03_terrain_processing_pysheds.ipynb)
+ 3. [Terrain conditioning](https://nbviewer.org/github/NIVANorge/catchment_processing_workflows/blob/main/notebooks/catchment_delineation/03_terrain_processing_pysheds.ipynb). Note that, at present, terrain conditioning is fiddly due to bugs/limitstions in the released version of scikit-image. See [here](https://github.com/NIVANorge/catchment_processing_workflows/tree/main/notebooks/catchment_delineation/terrain_processing_64bit) for details and the full workflow.
 
 ## 2. Land cover proportions
 
