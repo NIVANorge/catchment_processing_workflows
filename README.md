@@ -20,9 +20,9 @@ Delineate watersheds for outflow points in Norway based on Kartverket's national
 
 For reference, notebooks describing development of the workflow are here:
 
- 1. [Reproject, merge and resample the raw DTM](https://nbviewer.org/github/NIVANorge/catchment_processing_workflows/blob/main/notebooks/catchment_delineation/01_merge_reproject_raw_dtm.ipynb)
+ 1. [Reproject, merge and resample the raw DTM](https://nbviewer.org/github/NIVANorge/catchment_processing_workflows/blob/main/notebooks/catchment_delineation/01_merge_raw_dtm.ipynb)
  2. [Split data by vassdragsområde for efficiency](https://nbviewer.org/github/NIVANorge/catchment_processing_workflows/blob/main/notebooks/catchment_delineation/02_split_by_vassom.ipynb)
- 3. [Terrain conditioning](https://nbviewer.org/github/NIVANorge/catchment_processing_workflows/blob/main/notebooks/catchment_delineation/03a_terrain_processing_pysheds.ipynb)
+ 3. [Terrain conditioning](https://nbviewer.org/github/NIVANorge/catchment_processing_workflows/blob/main/notebooks/catchment_delineation/03_terrain_processing_pysheds.ipynb)
 
 ## 2. Land cover proportions
 
